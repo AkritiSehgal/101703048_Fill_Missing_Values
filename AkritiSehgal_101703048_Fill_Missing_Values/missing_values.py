@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 16 17:45:53 2020
 
-@author: ashu
+@author: akriti
 """
 #Made By AkritiSehgal(101703048)
 
