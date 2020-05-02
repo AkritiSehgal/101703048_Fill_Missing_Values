@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 16 
 
-@author: ashu
+@author: akriti
 """
 #Made by AkritiSehgal(101703048)
 import setuptools
